@@ -3,7 +3,9 @@
 
 Welcome to the **React.js Playground** – a collection of hands-on experiments, mini-projects, and component-based demos built with React. This repository is designed for learning, exploring, and sharing React.js best practices.
 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="400" height="400"/>
+</div>  
 > A journey into building modern, efficient, and scalable web interfaces.
 
 ---
